@@ -4,3 +4,5 @@
 #### abcdef 4
 ##### abcdef 5
 ###### abcdef 6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
